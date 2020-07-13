@@ -24,9 +24,7 @@ public class Person {
         
     }
     
-    Person(BankAccount account){
-                
-    }
+    
     
     Person(String name){
         
