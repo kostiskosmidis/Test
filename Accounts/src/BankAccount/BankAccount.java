@@ -88,9 +88,7 @@ public class BankAccount {
         return amount;
     }
 
-//    public void setAmount(double amount){
-//        this.amount = amount;
-//    }
+   
     public String getName() {
 
        
